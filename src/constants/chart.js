@@ -1,9 +1,9 @@
 export const TIMEFRAMES = [
   { value: '1', label: '1D' },
   { value: '7', label: '7D' },
-  { value: '30', label: '1M' },
-  { value: '90', label: '3M' },
-  { value: '365', label: '1Y' },
+  { value: '30', label: '30D' },
+  { value: '90', label: '90D' },
+  { value: '365', label: '1A' },
 ];
 
 export const CHART_COLORS = {
