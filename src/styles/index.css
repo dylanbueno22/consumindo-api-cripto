@@ -1,0 +1,9 @@
+/* ===== IMPORTS GLOBAIS ===== */
+@import './globals.css';
+
+/* ===== IMPORTS DE COMPONENTES ===== */
+@import './components/ui/Header.css';
+@import './components/ui/LoadingSkeleton.css';
+@import './components/crypto/CryptoCard.css';
+@import './components/crypto/CryptoFilters.css';
+@import './components/charts/PriceChart.css';
